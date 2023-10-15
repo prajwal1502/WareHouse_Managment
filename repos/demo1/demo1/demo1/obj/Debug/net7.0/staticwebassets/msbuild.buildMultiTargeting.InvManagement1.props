@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\InvManagement1.props" />
+</Project>

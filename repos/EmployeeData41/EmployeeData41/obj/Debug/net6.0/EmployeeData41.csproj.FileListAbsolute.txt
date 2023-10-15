@@ -1,0 +1,7 @@
+C:\Users\PRAJWAL\source\repos\EmployeeData41\EmployeeData41\obj\Debug\net6.0\EmployeeData41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAJWAL\source\repos\EmployeeData41\EmployeeData41\obj\Debug\net6.0\EmployeeData41.AssemblyInfoInputs.cache
+C:\Users\PRAJWAL\source\repos\EmployeeData41\EmployeeData41\obj\Debug\net6.0\EmployeeData41.AssemblyInfo.cs
+C:\Users\PRAJWAL\source\repos\EmployeeData41\EmployeeData41\obj\Debug\net6.0\EmployeeData41.csproj.CoreCompileInputs.cache
+C:\Users\PRAJWAL\source\repos\EmployeeData41\EmployeeData41\obj\Debug\net6.0\EmployeeData41.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PRAJWAL\source\repos\EmployeeData41\EmployeeData41\obj\Debug\net6.0\EmployeeData41.RazorAssemblyInfo.cache
+C:\Users\PRAJWAL\source\repos\EmployeeData41\EmployeeData41\obj\Debug\net6.0\EmployeeData41.RazorAssemblyInfo.cs

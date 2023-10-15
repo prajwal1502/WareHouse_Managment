@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>Bank_Account</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net7.0\BankAccount.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net7.0\BankAccount.GlobalUsings.g.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="obj\Bank Account.csproj.nuget.dgspec.json" />
+    <Content Include="obj\BankAccount.csproj.nuget.dgspec.json" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="obj\Bank Account.csproj.nuget.g.props" />
+    <None Include="obj\Bank Account.csproj.nuget.g.targets" />
+    <None Include="obj\BankAccount.csproj.nuget.g.props" />
+    <None Include="obj\BankAccount.csproj.nuget.g.targets" />
+    <None Include="obj\Debug\net7.0\BankAccount.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net7.0\BankAccount.assets.cache" />
+    <None Include="obj\Debug\net7.0\BankAccount.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net7.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\project.nuget.cache" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Debug\net7.0\" />
+    <Folder Include="obj\Debug\net7.0\refint\" />
+    <Folder Include="obj\Debug\net7.0\ref\" />
+  </ItemGroup>
+
+</Project>
